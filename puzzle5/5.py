@@ -2,12 +2,6 @@ import math
 
 # 128 rows, numbered 0 - 127
 # 8 columns, numbered 0 - 7
-# example: FBFBBFFRLR
-
-minRow = 0
-lastRow = 127
-minColumn = 0
-lastColumn = 7
 
 highestSeatId = 0
 
